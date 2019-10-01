@@ -1,6 +1,6 @@
-# Java_web_Experience
+# Mingwei's Java_web_Experience
 
-SHANGHAI XIN YIN TECH, Shanghai, China  2016-2017<br>
+# SHANGHAI XIN YIN TECH, Shanghai, China  2016-2017<br>
 Dynamic software development start-up.<br>
 Software Developer: Founded and performed all project management for independent software developing company. Developed expertise in machine learning, UML, algorithms. <br>
 Tasks:<br>
@@ -11,7 +11,7 @@ Achievements:<br>
 •	Developed enrollment system for an education institution. <br>
 Tools: Java, HTML, CSS, MySQL, Mac OS X, jQuery, JSP, HTML, CSS, Eclipse<br>
 <br>
-SHANGHAI SHANGRE INFO TECH INC., Shanghai, China  2015-2016<br>
+# SHANGHAI SHANGRE INFO TECH INC., Shanghai, China  2015-2016<br>
 Software developing company focused on mobile apps and software for TV platforms. <br>
 Senior Software Engineer, Full-Stack Developer: Played key role in all phases of software development for several mobile game apps.<br>
 Tasks: <br>
@@ -25,7 +25,7 @@ Achievements:<br>
 •	Developed Game Hot solution for transitioning games from mobile to TV platform. <br>
 Tools: Java, SQL, jQuery, JavaScript, JSP, HTML, CSS, MS SQL Server, Oracle, Eclipse, Windows<br>
 <br>
-SHANGHAI TIANCHUANG INFO TECH CO. LTD., Shanghai, China  2013-2015<br>
+# SHANGHAI TIANCHUANG INFO TECH CO. LTD., Shanghai, China  2013-2015<br>
 Software developing company serving international clients.<br>
 Software Engineer: Assisted in all phases of software development lifecycle. Designed, developed, updated, and customized enterprise-level software. <br>
 Tasks:<br>
@@ -36,7 +36,7 @@ Achievements:<br>
 •	Developed SGM ULUB official member management system. <br>
 Tools: Java, MySQL, JavaScript, JSP, jQuery, JSP, HTML, CSS, MS SQL Server, Oracle, Eclipse, Windows<br>
 <br>
-DALIAN XINWEI INFO TECH CO. LTD., Dalian, China  2011-2013<br>
+# DALIAN XINWEI INFO TECH CO. LTD., Dalian, China  2011-2013<br>
 Software developing company based in China.<br>
 Software Developer: Played key role in developing enterprise software. <br>
 Tasks Performed:<br>
