@@ -26,10 +26,6 @@ mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;mso-char-type:symbol;
 mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
 Symbol'>·</span></span><span style='font-size:10.0pt;font-family:Arial'> <b
 style='mso-bidi-font-weight:normal'>2016-2017<o:p></o:p></b></span></p>
-
-<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
-mso-outline-level:1'><span style='font-size:10.0pt;font-family:Arial'>software development start-up.<o:p></o:p></span></p>
-
 <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
 Arial'>Software Developer:</span></b><span style='font-size:10.0pt;font-family:
