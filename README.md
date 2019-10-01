@@ -1,6 +1,6 @@
 # Mingwei's Java_web_Experience
 
-# SHANGHAI XIN YIN TECH, Shanghai, China  2016-2017<br>
+<h4>SHANGHAI XIN YIN TECH, Shanghai, China  2016-2017</h4><br>
 Dynamic software development start-up.<br>
 Software Developer: Founded and performed all project management for independent software developing company. Developed expertise in machine learning, UML, algorithms. <br>
 Tasks:<br>
