@@ -1,4 +1,5 @@
 
+# Mingwei's Java Web Experience
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -17,7 +18,7 @@ xmlns:mv="http://macVmlSchemaUri" xmlns="http://www.w3.org/TR/REC-html40">
 <body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
 
 <p class=MsoNormal style='mso-outline-level:1'><b style='mso-bidi-font-weight:
-normal'><u><span style='font-family:"Century Gothic";mso-bidi-font-family:Arial'>Other
+normal'><u><span style='font-family:"Century Gothic";mso-bidi-font-family:Arial'>Mingwei's Java Web
 Experience<o:p></o:p></span></u></b></p>
 
 <p class=MsoNormal style='margin-top:6.0pt;text-align:justify;text-justify:
@@ -31,8 +32,7 @@ Symbol'>·</span></span><span style='font-size:10.0pt;font-family:Arial'> <b
 style='mso-bidi-font-weight:normal'>2016-2017<o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
-mso-outline-level:1'><span style='font-size:10.0pt;font-family:Arial'>Dynamic
-software development start-up.<o:p></o:p></span></p>
+mso-outline-level:1'><span style='font-size:10.0pt;font-family:Arial'>software development start-up.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
