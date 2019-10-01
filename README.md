@@ -210,7 +210,7 @@ enterprise software. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
 mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
-style='font-size:10.0pt;font-family:Arial'>Tasks Performed:<o:p></o:p></span></b></p>
+style='font-size:10.0pt;font-family:Arial'>Tasks:<o:p></o:p></span></b></p>
 
 <ul style='margin-top:0in' type=disc>
  <li class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
